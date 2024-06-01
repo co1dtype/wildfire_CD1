@@ -1,0 +1,21 @@
+TRAINER :
+  model: IRA_Unet
+  optimizer: adamw
+  learning_rate: 1.0e-4
+  weight_decay: 1.0e-3
+  criterion: LovaszLoss
+  n_epochs: 1
+  batch_size: 6
+  threshold: -2.0
+  num_workers: 2
+  gpu: 7
+  seed: 42
+
+MODEL:
+  img_ch: 10
+  output_ch: 1
+  filters: [16, 32, 64, 128, 256, 512]
+
+DIR:
+  model_path: /home/hyj/ChanHyung/Image_segementation/WildFire_Detection/my_logs
+  file_name: best_model_{epoch:02d}-{val_acc:.4f}
