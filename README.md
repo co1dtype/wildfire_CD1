@@ -1,7 +1,13 @@
 # Wildfire Detection​
-산학캡스톤디자인1 프로젝트 
+산학캡스톤디자인1 프로젝트 (2024.03.02 ~ 2024.06.04)
 
-​## Quick Start!  
+> 위성을 이용한 산불 감지
+
+## dataset
+https://drive.google.com/drive/folders/1Z_YBaGT1XveTtfu51A4AlJf28aGlP-Sr  
+
+## Quick Start!
+
 코드 다운로드
 ```python
 git clone https://github.com/co1dtype/wildfire_CD1.git
