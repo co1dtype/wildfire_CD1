@@ -1,10 +1,5 @@
 # Wildfire Detection​
 산학캡스톤디자인1 프로젝트 (2024.03.02 ~ 2024.06.04)
-
-> 위성을 이용한 산불 감지
-
-## dataset
-https://drive.google.com/drive/folders/1Z_YBaGT1XveTtfu51A4AlJf28aGlP-Sr  
 ```
 'yaml': '6.0.1',
 'torch': '2.3.0+cu121',
@@ -13,6 +8,13 @@ https://drive.google.com/drive/folders/1Z_YBaGT1XveTtfu51A4AlJf28aGlP-Sr
 'pytorch_lightning.loggers': '2.2.4',
 'python': '3.11.9'
 ```
+
+> 위성을 이용한 산불 감지
+
+
+## dataset
+https://drive.google.com/drive/folders/1Z_YBaGT1XveTtfu51A4AlJf28aGlP-Sr  
+
 
 
 ## Quick Start!
