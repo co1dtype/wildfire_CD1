@@ -16,3 +16,5 @@ git clone https://github.com/co1dtype/wildfire_CD1.git
 ```
 python trian.py
 ```
+
+.py 실행이 어려우면 demo.ipynb로 학습
