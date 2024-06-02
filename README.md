@@ -5,6 +5,15 @@
 
 ## dataset
 https://drive.google.com/drive/folders/1Z_YBaGT1XveTtfu51A4AlJf28aGlP-Sr  
+```
+'yaml': '6.0.1',
+'torch': '2.3.0+cu121',
+'torch.utils.data': '2.3.0+cu121',
+'pytorch_lightning': '2.2.4',
+'pytorch_lightning.loggers': '2.2.4',
+'python': '3.11.9'
+```
+
 
 ## Quick Start!
 
